@@ -10,3 +10,5 @@ Trabajo de despliega de aplicaciones web GitHub Pages.Utilizando uno de los repo
 - Habilita el uso de GitHub Pages en la configuración de tu repositorio y comprueba que el contenido se muestra correctamente al acceder a la URL del repositorio.
 
 Como resultado de la actividad, adjunta una memoria con todos los pasos realizados, incluyendo breves explicaciones y capturas de pantalla así como el link a la pagina de github.
+
+https://mackyto.github.io/DAW-UD1-githubpages/
