@@ -1,5 +1,5 @@
-#GitHub Pages
-##Práctica 'ACTIVDAD 3'
+# GitHub Pages
+## Práctica 'ACTIVDAD 3'
 Javier Simarro Olivares
 
 Trabajo de despliega de aplicaciones web GitHub Pages.Utilizando uno de los repositorios de GitHub del módulo, realiza los siguientes pasos:
